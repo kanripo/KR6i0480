@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:38.649619
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:44
 #+TITLE: 佛說佛十力經
 #+PROPERTY: CBETA_ID T17n0781
 #+PROPERTY: ID KR6i0480
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 781
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0480_T_000-0718c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0480_T_001-0718c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.781[No.780]¶
-
- 《佛說佛十力經》¶
+No. 781 [No. 780]¶
+《佛說佛十力經》¶
 ¶
 西天譯經三藏朝奉大夫¶
 試光祿卿傳法大師賜紫¶
